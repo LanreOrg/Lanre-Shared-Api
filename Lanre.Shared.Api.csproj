@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <PackageId>LanreSharedApi</PackageId>
-    <Version>0.0.1</Version>
+    <Version>0.0.001</Version>
     <Authors>Ericuss</Authors>
     <Company>Lanre</Company>
   </PropertyGroup>
